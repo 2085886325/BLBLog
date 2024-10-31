@@ -1,0 +1,8 @@
+com\buleng\domain\vo\CommentVo.class
+com\buleng\service\impl\UserServiceImpl.class
+com\buleng\enums\AllStaticValue.class
+com\buleng\domain\entity\Comment.class
+com\buleng\mapper\CommentMapper.class
+com\buleng\service\CommentService.class
+com\buleng\service\impl\CommentServiceImpl.class
+com\buleng\service\UserService.class
